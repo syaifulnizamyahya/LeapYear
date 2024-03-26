@@ -1,28 +1,11 @@
 ﻿using CommonLibrary;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LibraryTest
 {
     [TestFixture]
     public class MathLibraryTest
     {
-        [OneTimeSetUp]
-        public void StartTest()
-        {
-            Trace.Listeners.Add(new ConsoleTraceListener());
-        }
-
-        [OneTimeTearDown]
-        public void EndTest()
-        {
-            Trace.Flush();
-        }
-
         private static readonly object[] _yearRange =
         {
             new object[] {2000, 2005, new List<int> { 2000, 2004 } },

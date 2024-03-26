@@ -21,3 +21,4 @@ D:\Dev\TestCS\LeapYear\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
 D:\Dev\TestCS\LeapYear\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
 D:\Dev\TestCS\LeapYear\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
 D:\Dev\TestCS\LeapYear\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+D:\Dev\TestCS\LeapYear\CommonLibrary\obj\Debug\net8.0\CommonLibrary.sourcelink.json

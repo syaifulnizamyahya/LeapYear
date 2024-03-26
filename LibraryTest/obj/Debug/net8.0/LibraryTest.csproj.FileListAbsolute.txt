@@ -203,3 +203,4 @@ d:\Dev\TestCS\LeapYear\LibraryTest\obj\Debug\net8.0\refint\LibraryTest.dll
 d:\Dev\TestCS\LeapYear\LibraryTest\obj\Debug\net8.0\LibraryTest.pdb
 d:\Dev\TestCS\LeapYear\LibraryTest\obj\Debug\net8.0\LibraryTest.genruntimeconfig.cache
 d:\Dev\TestCS\LeapYear\LibraryTest\obj\Debug\net8.0\ref\LibraryTest.dll
+d:\Dev\TestCS\LeapYear\LibraryTest\obj\Debug\net8.0\LibraryTest.sourcelink.json

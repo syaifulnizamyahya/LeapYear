@@ -35,3 +35,4 @@ D:\Dev\TestCS\LeapYear\ConsoleApplication\obj\Debug\net8.0\refint\ConsoleApplica
 D:\Dev\TestCS\LeapYear\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.pdb
 D:\Dev\TestCS\LeapYear\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.genruntimeconfig.cache
 D:\Dev\TestCS\LeapYear\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
+D:\Dev\TestCS\LeapYear\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.sourcelink.json
